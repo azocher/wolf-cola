@@ -1,0 +1,12 @@
+* {
+   border: 1px solid black;
+   margin: 0;
+}
+
+#product_img {
+    height: 200px;
+}
+
+.blue_text {
+    color: navy;
+}
